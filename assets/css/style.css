@@ -36,5 +36,14 @@ a#menu_negro:hover{
 }
 			/* Footer */
 .bg-gray{
-	background-color: gray;
+	background-color: #AEB0B0;
+}
+.i_social{
+	font-size: 30px;
+}
+.i-color{
+	color: white;
+}
+.bg-silver{
+	background-color: #6F7273;
 }
