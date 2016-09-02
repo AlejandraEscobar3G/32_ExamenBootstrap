@@ -23,3 +23,18 @@ a#menu_negro:hover{
 	background-image: url("../images/client-bg.jpg");
 	background-size: 100% 100%;
 }
+			/*Clothing*/
+.ng-negro{
+	background-color: black;
+}
+			/*Blog*/
+.i{
+	font-size: 55px;
+}
+.borde_p{
+	border: 1px solid black;
+}
+			/* Footer */
+.bg-gray{
+	background-color: gray;
+}
