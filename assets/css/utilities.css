@@ -5,17 +5,39 @@
 	display: block;
 	margin: auto;
 }
+.img100{
+	width: 100%;
+}
 			/*Paddings*/
 .padding-2{
 	padding: 2%;
 }
-.padding-4{
-	padding: 4%;
+.padding-3{
+	padding:3%;
+}
+.pd-lados{
+	padding: 8% 0;
+}
+.padding-10{
+	padding: 12%;
 }
 .pt-2{
 	padding-top: 2%;
 }
+			/*Margins*/
+.mt-2{
+	margin-top: 2%;
+}
 			/*textos*/
 .text_black{
 	color: black;
+}
+.text-white{
+	color: white;
+}
+.text-red{
+	color: red;
+}
+.a-none{
+	text-decoration: none !important;
 }

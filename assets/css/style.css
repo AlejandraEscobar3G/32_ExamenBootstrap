@@ -7,11 +7,19 @@ a.menu:hover{
 	color: white !important;	
 }
 a#menu_negro:hover{
-	background-color: black !important;
+	background-color: gray !important;
 	color: white !important;
 }
 			/*PORTADA*/
 .portada{
 	background-image: url("../images/slider1.jpg");
+	background-size: 100% 100%;
+}
+.borde_h1{
+	border: 2px solid white;
+}
+			/*PORTADA2*/
+.portada2{
+	background-image: url("../images/client-bg.jpg");
 	background-size: 100% 100%;
 }
